@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://strantick.github.io/sitemap.html.gz
+Sitemap: https://strantick.github.io/app/sitemap.html.gz
+Sitemap: https://strantick.github.io/assets/sitemap.html.gz
+Sitemap: https://strantick.github.io/css/sitemap.html.gz
+Sitemap: https://strantick.github.io/data/sitemap.html.gz
+Sitemap: https://strantick.github.io/includes/sitemap.html.gz
+Sitemap: https://strantick.github.io/item/sitemap.html.gz
+Sitemap: https://strantick.github.io/src/sitemap.html.gz
